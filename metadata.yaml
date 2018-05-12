@@ -21,6 +21,8 @@ creator:
     - http://en.wikipedia.org/wiki/Eino_Leino
     - http://fi.wikipedia.org/wiki/Eino_Leino
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14385#Ty-n-orja
 gutenberg_issued: '2004-12-20'
 gutenberg_type: Text
 identifiers:
