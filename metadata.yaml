@@ -1,0 +1,36 @@
+_repo: Ty-n-orja_14385
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leino, Eino
+    aliases:
+    - Lönnbohm, Armas Einar Leopold
+    - Vilkastus, Mikko
+    - Sepeteus, Kanttori
+    - Lönnbohm, Armas Eino Leopold
+    - Leino, Armas Eino Leopold
+    - Lonnbohm, Armas Eino Leopold
+    birthdate: 1878
+    deathdate: 1926
+    gutenberg_agent_id: '3927'
+    url: http://www.gutenberg.org/2009/agents/3927
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Eino_Leino
+    - http://fi.wikipedia.org/wiki/Eino_Leino
+description: ''
+gutenberg_issued: '2004-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14385'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Fiction'
+title: Työn orja
+url: http://www.gutenberg.org/ebooks/14385
